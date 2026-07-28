@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    font-family: 'Lexend', sans-serif;
+}
+p{
+    color:white;
+    font-size:20px;
+}
+h1{
+    color:white;
+}
+#convertToggler{
+    color:white;
+    background-color:blue;
+    border-radius:10px;
+    padding:3px;
+    font-size:20px;
+}
+#convertButton{
+    color:white;
+    background-color:blue;
+    border-radius:10px;
+    padding:3px;
+    font-size:20px;
+}
+#updateButton{
+    color:white;
+    background-color:blue;
+    border-radius:10px;
+    padding:3px;
+    font-size:20px;
+}
+#input{
+    color:white;
+    background-color:grey;
+    border-radius:10px;
+    padding:3px;
+    font-size:20px;
+}
